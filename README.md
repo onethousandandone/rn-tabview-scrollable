@@ -4,7 +4,7 @@
 We built a library for our project using react-native-tab-view because we felt it was not like this library and the developers need it a lot.
 
 
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:213.85%;position:relative;"><iframe width="260" height="556" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/41e0vy"></iframe></div><p><a href="https://imgflip.com/gif/41e0vy">via Imgflip</a></p></div>
+<a href="https://github.com/onethousandandone/rn-tabview-scrollable/blob/master/demo/Android4.gif"><img src="https://imgflip.com/gif/41e0vy" title="android"/></a>
 
 ## Installation
 
