@@ -5,7 +5,7 @@ We built a library for our project using react-native-tab-view because we felt i
 
 
 ![Android](demo/Android4.gif)  
-![Ios](demo/Ios.gif)
+
 
 ## Installation
 
