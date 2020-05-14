@@ -3,6 +3,9 @@
 
 We built a library for our project using react-native-tab-view because we felt it was not like this library and the developers need it a lot.
 
+
+https://github.com/onethousandandone/rn-tabview-scrollable/blob/master/demo/Android4.gif
+
 ## Installation
 
 Befor inistall [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view) then =>
