@@ -4,7 +4,7 @@
 We built a library for our project using react-native-tab-view because we felt it was not like this library and the developers need it a lot.
 
 
-<a href="https://imgflip.com/embed/41e0vy"><img src="https://imgflip.com/gif/41e0vy" title="android"/></a>
+![Android](demo/Android4.gif)
 
 ## Installation
 
