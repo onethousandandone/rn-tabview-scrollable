@@ -4,7 +4,7 @@
 We built a library for our project using react-native-tab-view because we felt it was not like this library and the developers need it a lot.
 
 
-A cross-platform Tab View component for React Native.
+A cross-platform Tab View component for React Native. `IOS / ANDROID` both is work greate
 
 ![Android](demo/Android4.gif)  
 
